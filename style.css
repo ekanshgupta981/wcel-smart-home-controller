@@ -4,5 +4,26 @@ body {
   background-color: #040404 !important;
 }
 .logo {
-  width: 25%;
+  width: 35%;
+}
+.nav-cont-bg1 {
+  width: 40%;
+  border-top-right-radius: 30px;
+  border-bottom-right-radius: 30px;
+}
+.nav-cont-bg2 {
+  width: 40%;
+  border-top-left-radius: 30px;
+  border-bottom-left-radius: 30px;
+}
+.nav-cont {
+  background: black;
+  border: 2px solid white;
+  padding: 0.5rem;
+  border-radius: 50%;
+  height: 3rem;
+  width: 3rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
